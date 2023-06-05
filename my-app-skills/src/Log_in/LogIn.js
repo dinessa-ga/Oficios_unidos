@@ -1,13 +1,13 @@
 
-import React from 'react'
-import './login.css'
+// import React from 'react'
+// import './login.css'
 
-function LogInm(){
- return(
+// function LogInm(){
+//  return(
 
 
- );
+//  );
 
-};
+// };
 
-export {LogInm}
+// export {LogInm}

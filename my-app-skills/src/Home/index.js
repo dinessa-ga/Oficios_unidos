@@ -1,5 +1,4 @@
 import React from "react";
-import './home.css'
 
 function HomeP() {
   return (
@@ -9,4 +8,4 @@ function HomeP() {
   );
 };
 
-export {HomeP};
+export {HomeP}
